@@ -39,21 +39,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/TouqeerAshraf24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_kr_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/TouqeerAshraf24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md Touqeer Ashraf" height="30" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/md-touqeer-ashraf-342077287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-1a5165287" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24829392/md-touqeer-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18211168" height="30" width="40" /></a> -->
-<a href="https://twitter.com/touqeerashraf24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="touqeerashraf24" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-touqeer-ashraf-342077287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md touqeer ashraf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24829392/md-touqeer-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md touqeer ashraf" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mdtouqeer.ashraf.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md touqeer ashraf" height="30" width="40" /></a>
-<a href="https://instagram.com/touqeer_ashraf_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="touqeer_ashraf_24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mdtouqeerashraf4334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdtouqeerashraf4334" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mdtouqeerashra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdtouqeerashra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mdtouqeerashraf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md touqeer ashraf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wee18aazen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wee18aazen" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mdtouqeerashraf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mdtouqeerashraf2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mdtouqeeriaqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdtouqeeriaqt" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24829392/md-touqeer-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18211168" height="30" width="40" /></a>
+
 
 </p>
 
