@@ -1,4 +1,4 @@
-<div align="center"><img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=32CD32&width=335&lines=Hi%2C+I'm+TouqeerAshraf%F0%9F%91%8B;Let's+Connect!"/> </div>
+<div align="center"><img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=32CD32&width=335&lines=Hi%2C+I'm+Touqeer%F0%9F%91%8B;Let's+Connect!"/> </div>
 
 <img align="right" alt="Coding" width="200" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" />
 <!-- <h1 align="center">Hi 👋, I'm Touqeer Ashraf</h1> -->
